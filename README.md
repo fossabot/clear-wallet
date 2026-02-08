@@ -58,6 +58,7 @@ bun run build-firefox # will build extension with firefox manifest
 ### Badges
 
 [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=andrei0x309_clear-wallet)](https://sonarcloud.io/summary/new_code?id=andrei0x309_clear-wallet)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fclear-wallet.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fclear-wallet?ref=badge_shield)
 
 ### Extended article about this repo
 
@@ -72,3 +73,7 @@ https://github.com/user-attachments/assets/4f7d267a-7410-43cf-b3bd-0256f1ccc954
 [LICENSE.md](LICENSE.md)
 
 [PRIVACY_POLICY.md](PRIVACY_POLICY.md)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fclear-wallet.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fclear-wallet?ref=badge_large)
